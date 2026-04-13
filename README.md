@@ -64,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2974-minimum-number-game) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->

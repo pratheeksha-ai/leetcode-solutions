@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0069-sqrtx) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2652-sum-multiples](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2652-sum-multiples) |
 ## Binary Search
 |  |
 | ------- |

@@ -60,6 +60,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0013-roman-to-integer](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0657-robot-return-to-origin](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -88,6 +89,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [2974-minimum-number-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Database
 |  |

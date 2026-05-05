@@ -6,6 +6,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0682-baseball-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1672-richest-customer-wealth](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -90,6 +91,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
+| [0682-baseball-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Database
 |  |
@@ -105,4 +107,8 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

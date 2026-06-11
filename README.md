@@ -6,6 +6,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | ------- |
 | [0001-two-sum](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -25,6 +26,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -75,6 +77,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2974-minimum-number-game) |

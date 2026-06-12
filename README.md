@@ -49,6 +49,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [3024-type-of-triangle](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3783-mirror-distance-of-an-integer](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |

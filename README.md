@@ -22,6 +22,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [2974-minimum-number-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Binary Search
 |  |
 | ------- |

@@ -5,6 +5,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -26,6 +27,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -80,6 +82,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |

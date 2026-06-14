@@ -22,6 +22,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [2942-find-words-containing-character](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2974-minimum-number-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3024-type-of-triangle) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Two Pointers
@@ -49,6 +50,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [2652-sum-multiples](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3024-type-of-triangle) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |

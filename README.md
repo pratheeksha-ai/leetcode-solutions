@@ -12,6 +12,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0217-contains-duplicate](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1512-number-of-good-pairs](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -44,6 +45,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0069-sqrtx](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2469-convert-the-temperature](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -67,6 +69,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0013-roman-to-integer](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -99,6 +102,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1512-number-of-good-pairs](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

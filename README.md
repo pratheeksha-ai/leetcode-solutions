@@ -11,6 +11,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0682-baseball-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1512-number-of-good-pairs](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
@@ -66,6 +67,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
 | ------- |

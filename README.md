@@ -94,6 +94,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
+| [3110-score-of-a-string](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Sorting
 |  |

@@ -92,6 +92,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3019-number-of-changing-keys](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3019-number-of-changing-keys) |
+| [3612-process-string-with-special-operations-i](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Sorting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0657-robot-return-to-origin](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2974-minimum-number-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2974-minimum-number-game) |
+| [3612-process-string-with-special-operations-i](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Database
 |  |
 | ------- |

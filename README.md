@@ -14,6 +14,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0682-baseball-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1480-running-sum-of-1d-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
 | [1672-richest-customer-wealth](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -167,4 +168,5 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [1480-running-sum-of-1d-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->

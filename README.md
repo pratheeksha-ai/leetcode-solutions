@@ -11,6 +11,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0739-daily-temperatures) |
@@ -81,6 +82,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0013-roman-to-integer](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -110,6 +112,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0088-merge-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3024-type-of-triangle) |
@@ -120,11 +123,13 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [2974-minimum-number-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2974-minimum-number-game) |
 ## Simulation
 |  |
@@ -200,4 +205,16 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0739-daily-temperatures) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->

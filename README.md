@@ -7,6 +7,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0001-two-sum](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -248,5 +249,6 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

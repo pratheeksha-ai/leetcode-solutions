@@ -1,18 +1,28 @@
-import java.util.Arrays;
 class Solution {
     public int missingNumber(int[] nums) {
-        Arrays.sort(nums);
-        int n=nums.length;
-        
-        for(int i=0;i<n;i++)
+        int i=0;
+        while(i<nums.length)
         {
-            if(nums[i]!=i)
+            int correct=nums[i];
+            if(nums[i]<nums.length&&nums[i]!=nums[correct])
             {
-                return i;
+                int temp=nums[i];
+                nums[i]=nums[correct];
+                nums[correct]=temp;
             }
-            
+            else
+            {
+                i=i+1;
+            }
         }
-        return n;
-        
+        for(int j=0;j<nums.length;j++)
+        {
+            if(nums[j]!=j)
+            {
+                return j;
+            }
+        }
+            
+        return nums.length;
     }
 }

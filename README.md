@@ -20,6 +20,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0739-daily-temperatures](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1207-unique-number-of-occurrences](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1550-three-consecutive-odds) |
@@ -90,6 +91,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0268-missing-number](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1207-unique-number-of-occurrences](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1512-number-of-good-pairs](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String

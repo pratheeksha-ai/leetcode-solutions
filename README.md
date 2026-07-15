@@ -146,6 +146,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0657-robot-return-to-origin](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0682-baseball-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2974-minimum-number-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2974-minimum-number-game) |
 | [3612-process-string-with-special-operations-i](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Database
@@ -213,6 +214,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |

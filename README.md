@@ -19,6 +19,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0724-find-pivot-index](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0946-validate-stack-sequences](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -145,6 +146,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0946-validate-stack-sequences](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2974-minimum-number-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2974-minimum-number-game) |
@@ -186,6 +188,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0155-min-stack](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0946-validate-stack-sequences) |
 ## Dynamic Programming
 |  |
 | ------- |

@@ -14,6 +14,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0217-contains-duplicate](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0682-baseball-game) |
@@ -46,6 +47,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | [0015-3sum](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -81,6 +83,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | ------- |
 | [0069-sqrtx](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Hash Table
 |  |
@@ -182,6 +185,7 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 | ------- |
 | [0078-subsets](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [1486-xor-operation-in-an-array](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Stack
 |  |
@@ -288,4 +292,12 @@ SA collection of LeetCode questions to ace the coding interview! - Created using
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/pratheeksha-ai/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
